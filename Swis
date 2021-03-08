@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",A&E
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png",Ae.br
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",AMC
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo-amc.png",Amc.br
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-AXN_logo_2015.svg_.png",AXN
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
@@ -43,9 +43,9 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/139
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/142
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://u1o.xyz/zIP52",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://u1o.xyz/S9ncL",ESPN 2
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://u1o.xyz/S9ncL",ESPN+
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/143
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://u1o.xyz/S9ncL",ESPN 2
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://u1o.xyz/S9ncL",ESPN+
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPNBrasil.png",ESPN Brasil
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/144
@@ -61,7 +61,7 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/148
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/152
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png",FOX Sports 2
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/153
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://a5.vc/3pv",Globo
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://a5.vc/3pv",Globo SP
 http://dnsx.co:80/0915597625/fireurl.co/71971
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://a5.vc/3pv",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
