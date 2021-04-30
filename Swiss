@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/ae.png",Ae.br
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/ae.png",Ae.br
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/CHlPB48.png",Amc.br
 http://cdn-1.nxplay.com.br/AMC_BRASIL/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/CHlPB48.png",Amc.br
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
+#EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/ANIMAL%20PLANET.png",Animal Planet
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6142
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/axn.png",AXN
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/axn.png",AXN
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6140
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/oLcHI8G.png",Band News
@@ -31,8 +37,6 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/121
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
 #EXTINF:-1 group-title="Entreterimento" tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png",Canal Rural
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/sonychannel.png",Sony
-http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/123
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/cartoonnetwork.png",Cartoon Network
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/124
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/cinemax.png",Cinemax
@@ -41,6 +45,8 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/125
 http://cdn-1.nxplay.com.br/CNN_Brazil_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/combate.png",Combate
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/126
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/combate.png",Combate
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/76729
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/comedycentral.png",Comedy Central
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/127
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://i.imgur.com/2AmwZmm.jpg",Discovery Channel
@@ -57,7 +63,7 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PE
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/139
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/HNCqSdX.png",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="hhttps://i.imgur.com/HNCqSdX.png",Disney Junior
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/HNCqSdX.png",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
@@ -89,10 +95,16 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/145
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/TW6ZY5p.png",ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/sonychannel.png",Sony
+http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/123
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/sonychannel.png",Sony
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6961
 #EXTINF:-1 group-title="Entreterimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
 http://177.20.208.58:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Entreterimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entreterimento" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png",Fish TV
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/4377
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxchannel.png",Fox
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/148
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxlife.png",Fox Life
@@ -103,8 +115,12 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/150
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/151
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports.png",Fox Sports
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/152
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports.png",Fox Sports
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6118
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports2.png",Fox Sports 2
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/153
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports2.png",Fox Sports 2
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/61043
 #EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo RJ
@@ -115,14 +131,34 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/154
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/gloobinho.png",Gloobinho
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/215
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png",GNT
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6956
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/HBO/HBO.png",HBO
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6108
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/HBO/HBO%202.png",HBO 2
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6110
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/HBO/HBO%20FAMILY.png",HBO Family
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6109
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/HBO/HBO%20SIGNATURE.png",HBO Signature
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6105
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/HBO/HBO%20PLUS.png",HBO Plus
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6106
+#EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/HISTORY.png",History
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6104
+#EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/HISTORY%202.png",H2
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/61093
 #EXTINF:-1 group-title="Documentários" tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png",Love Nature
 http://177.20.208.58:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/MEGAPIX.png",Megapix
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6101
 #EXTINF:-1 group-title="Entreterimento" tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV
 http://cdn-1.nxplay.com.br/MTV_BR_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Entreterimento" tvg-logo="http://i.imgur.com/YDqoOVf.png",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
 #EXTINF:-1 group-title="Entreterimento" tvg-logo="http://i.imgur.com/YDqoOVf.png",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+#EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/NATIONAL%20GEOGRAPHIC.png",NatGeo
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6099
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Channel
 http://cdn-1.nxplay.com.br/PCBR_HD_NXPLAY_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Premiere" tvg-logo="http://a5.vc/77e",Premiere Clubes
@@ -157,9 +193,39 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.redd.it/iyqp94n995451.jpg",SBT
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w545419196_b1000000.m3u8
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/SPACE.png",Space
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6085
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/knx9dj1.png",SporTV
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/75462
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/qpwwQCz.png",SporTV 2
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/76017
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/8ds9Wv0.png",SporTV 3
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/76020
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/XHUoj3n.png",TBS
 http://cdn-1.nxplay.com.br/TBS_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/TCM.png",TCM
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/61004
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20ACTION.png",Telecine Action
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6080
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20CULT.png",Telecine Cult
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/10247
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20FUN.png",Telecine Fun
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6079
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",Telecine Pipoca
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6078
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PREMIUM.png",Telecine Premium
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6077
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20TOUCH.png",Telecine Touch
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6076
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/TCL%20DISCOVERY.png",TLC
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/24786
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/TNT.png",TNT
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6074
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/4k/TNT%20SERIES%204K.png",TNT Series
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/6073
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/ka06Cjw.png",TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/ka06Cjw.png",TNT Estádio Sports 1
 http://slvcs87g3x.akamaized.net/live/canal_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/ka06Cjw.png",TNT Estádio Sports 1
+http://pdsrv.io:80/w0imp8sd/whcu2sj3/69723
