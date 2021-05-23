@@ -27,6 +27,8 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/124
 http://rec2.distv.net:80/china/china/4
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png",Carioca
 http://paineliptv8.xyz:2082/live/3445332/3445332/69909.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png",Carioca
+http://pfsv.io:80/33732940/14864/55190
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png",CONMEBOL TV 1
 http://paineliptv8.xyz:2082/live/3445332/3445332/69903.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png",CONMEBOL TV 2
@@ -173,6 +175,10 @@ http://dnsx.co:80/live/0165466866/fireurl.co/72257.m3u8
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RecordTV Minas
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RecordTV RJ
+http://pfsv.io:80/33732940/14864/50880
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RecordTV RJ
+http://pfsv.io:80/33732940/14864/57
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/ac5p192.png",Record News
