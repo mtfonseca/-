@@ -5,12 +5,18 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://i.imgur.com/CHlPB48.png",Amc.br
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/ANIMAL%20PLANET.png",Animalplanet.br
+http://pfsv.io:80/33732940/14864/588
 #EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/ANIMAL%20PLANET.png",Animalplanet.br
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6142
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://distv.net/icons/axn.png",AXN
+http://pfsv.io:80/33732940/14864/50863
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/axn.png",AXN
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/axn.png",AXN
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6140
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band
+http://pfsv.io:80/33732940/14864/580
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/wuMZB2S.png",BandSports
@@ -19,16 +25,10 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/119
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/121
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png",Canal do Boi
 https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
-#EXTINF:-1 group-title="Entreterimento" tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png",Canal Rural
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png",Canal Rural
 https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/cartoonnetwork.png",Cartoon Network
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/124
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png",Carioca
-http://rec2.distv.net:80/china/china/4
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png",Carioca
-http://paineliptv8.xyz:2082/live/3445332/3445332/69909.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/campeonatocarioca.png",Carioca
-http://pfsv.io:80/33732940/14864/55190
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png",CONMEBOL TV 1
 http://paineliptv8.xyz:2082/live/3445332/3445332/69903.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://podecomparar.com.br/sites/default/files/conmebol-tv-200px.png",CONMEBOL TV 2
@@ -41,12 +41,20 @@ http://paineliptv8.xyz:2082/live/3445332/3445332/69901.m3u8
 http://paineliptv8.xyz:2082/live/3445332/3445332/73670.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/cinemax.png",Cinemax
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/125
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://distv.net/icons/combate.png",Combate
+http://pfsv.io:80/33732940/14864/581
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/combate.png",Combate
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/126
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/combate.png",Combate
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/76729
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/comedycentral.png",Comedy Central
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/127
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://p6.vc/fZ5",CNN Brasil
+http://pfsv.io:80/33732940/14864/50865
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://p6.vc/fZ5",CNN Brasil
+http://pfsv.io:80/33732940/14864/513
+#EXTINF:-1 group-title="Canais 4k" tvg-logo="https://i.imgur.com/2AmwZmm.jpg",Discovery Channel
+http://pfsv.io:80/33732940/14864/585
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://i.imgur.com/2AmwZmm.jpg",Discovery Channel
 http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/discoverykids.png",Discovery Kids
@@ -69,6 +77,8 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/140
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
+http://pfsv.io:80/33732940/14864/595
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png",ESPN
@@ -81,6 +91,8 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/Qp5B2ZB.png",ESPN+
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/143
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil
+http://pfsv.io:80/33732940/14864/50872
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil
@@ -97,38 +109,60 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDR
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/123
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/sonychannel.png",Sony
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6961
-#EXTINF:-1 group-title="Entreterimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
 http://177.20.208.58:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Entreterimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entreterimento" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png",Fish TV
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png",Fish TV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/4377
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png",Fish TV
+http://pfsv.io:80/33732940/14864/100
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxchannel.png",Fox
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/148
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxchannel.png",Fox
+http://pfsv.io:80/33732940/14864/292
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxlife.png",Fox Life
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/149
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxlife.png",Fox Life
+http://pfsv.io:80/33732940/14864/276
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxpremium1.png",Fox Premium 1
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/150
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxpremium1.png",Fox Premium 1
+http://pfsv.io:80/33732940/14864/277
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxpremium2.png",Fox Premium 2
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/151
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxpremium2.png",Fox Premium 2
+http://pfsv.io:80/33732940/14864/278
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://distv.net/icons/foxsports.png",Fox Sports
+http://pfsv.io:80/33732940/14864/586
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports.png",Fox Sports
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/152
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports.png",Fox Sports
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6118
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://distv.net/icons/foxsports2.png",Fox Sports 2
+http://pfsv.io:80/33732940/14864/593
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports2.png",Fox Sports 2
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/153
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://distv.net/icons/foxsports2.png",Fox Sports 2
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61043
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo Belo Horizonte HD
+http://pfsv.io:80/33732940/14864/388
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo Belo Horizonte HD
+http://pfsv.io:80/33732940/14864/362
 #EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo Belo Horizonte HD
-http://pfsv.io:80/33732940/14864/388
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo Belo Horizonte HD
-http://pfsv.io:80/33732940/14864/362
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo SP
+http://pfsv.io:80/33732940/14864/582
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://i.imgur.com/NSHvLCe.png",Globo SP
+http://pfsv.io:80/33732940/14864/354
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://p6.vc/fZ4",GloboNews
+http://pfsv.io:80/33732940/14864/50864
+#EXTINF:-1 group-title="Notícias" tvg-logo="http://p6.vc/fZ4",GloboNews
+http://pfsv.io:80/33732940/14864/512
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/gloob.png",Gloob
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/154
 #EXTINF:-1 group-title="Infantil" tvg-logo="http://distv.net/icons/gloobinho.png",Gloobinho
@@ -149,12 +183,32 @@ http://pdsrv.io:80/w0imp8sd/whcu2sj3/6106
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6104
 #EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/HISTORY%202.png",H2
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61093
-#EXTINF:-1 group-title="Documentários" tvg-logo="http://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226-215x100@2x.png",Love Nature
-http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/MEGAPIX.png",Megapix
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6101
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://p6.vc/f0g",Multishow
+http://pfsv.io:80/33732940/14864/590
+#EXTINF:-1 group-title="Entretenimento" tvg-logo="http://p6.vc/f0g",Multishow
+http://pfsv.io:80/33732940/14864/3
+#EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/NATIONAL%20GEOGRAPHIC.png",NatGeo
+http://pfsv.io:80/33732940/14864/594
 #EXTINF:-1 group-title="Documentários" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/NATIONAL%20GEOGRAPHIC.png",NatGeo
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6099
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere Clubes
+http://pfsv.io:80/33732940/14864/584
+#EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere Clubes
+http://pfsv.io:80/33732940/14864/524
+#EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 2
+http://pfsv.io:80/33732940/14864/525
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 3
+http://pfsv.io:80/33732940/14864/526
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 4
+http://pfsv.io:80/33732940/14864/527
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 5
+http://pfsv.io:80/33732940/14864/528
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 6
+http://pfsv.io:80/33732940/14864/529
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 7
+http://pfsv.io:80/33732940/14864/530
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",Record TV Minas
@@ -177,32 +231,68 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w545419196_b1000000.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/SPACE.png",Space
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6085
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://i.imgur.com/knx9dj1.png",SporTV
+http://pfsv.io:80/33732940/14864/589
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/knx9dj1.png",SporTV
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/75462
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/knx9dj1.png",SporTV
+http://pfsv.io:80/33732940/14864/555
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/qpwwQCz.png",SporTV 2
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/76017
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/qpwwQCz.png",SporTV 2
+http://pfsv.io:80/33732940/14864/553
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/8ds9Wv0.png",SporTV 3
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/76020
+#EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/8ds9Wv0.png",SporTV 3
+http://pfsv.io:80/33732940/14864/554
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/TCM.png",TCM
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/61004
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20ACTION.png",Telecine Action
+http://pfsv.io:80/33732940/14864/50871
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20ACTION.png",Telecine Action
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6080
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20ACTION.png",Telecine Action
+http://pfsv.io:80/33732940/14864/562
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20CULT.png",Telecine Cult
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/10247
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20CULT.png",Telecine Cult
+http://pfsv.io:80/33732940/14864/567
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20FUN.png",Telecine Fun
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6079
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20FUN.png",Telecine Fun
+http://pfsv.io:80/33732940/14864/563
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",Telecine Pipoca
+http://pfsv.io:80/33732940/14864/5345
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",Telecine Pipoca
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6078
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",Telecine Pipoca
+http://pfsv.io:80/33732940/14864/564
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PREMIUM.png",Telecine Premium
+http://pfsv.io:80/33732940/14864/597
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PREMIUM.png",Telecine Premium
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6077
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PREMIUM.png",Telecine Premium
+http://pfsv.io:80/33732940/14864/565
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20TOUCH.png",Telecine Touch
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6076
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20TOUCH.png",Telecine Touch
+http://pfsv.io:80/33732940/14864/566
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/TCL%20DISCOVERY.png",TLC
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/24786
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/TCL%20DISCOVERY.png",TLC
+http://pfsv.io:80/33732940/14864/286
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/TNT.png",TNT
+http://pfsv.io:80/33732940/14864/601
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/TNT.png",TNT
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6074
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/TNT.png",TNT
+http://pfsv.io:80/33732940/14864/287
+#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/4k/TNT%20SERIES%204K.png",TNT Series
+http://pfsv.io:80/33732940/14864/602
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/4k/TNT%20SERIES%204K.png",TNT Series
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6073
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/4k/TNT%20SERIES%204K.png",TNT Series
+http://pfsv.io:80/33732940/14864/288
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/ka06Cjw.png",TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/ka06Cjw.png",TNT Sports
