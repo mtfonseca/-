@@ -15,9 +15,9 @@ http://pfsv.io:80/33732940/14864/294
 
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/ANIMAL%20PLANET.png",Animalplanet.br
 http://pfsv.io:80/33732940/14864/588
-#EXTINF:-1 group-title="Documentario" tvg-logo="https://i.ibb.co/ZS5n57R/B-Animal-Planet-FHD.png",Animalplanet.br
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://i.ibb.co/ZS5n57R/B-Animal-Planet-FHD.png",Animalplanet.br
 http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=381bcf5b7c8ee11b34590bf9a849968e
-#EXTINF:-1 group-title="Documentario" tvg-logo="https://i.ibb.co/ZS5n57R/B-Animal-Planet-FHD.png",Animalplanet.br
+#EXTINF:-1 group-title="Documentários" tvg-logo="https://i.ibb.co/ZS5n57R/B-Animal-Planet-FHD.png",Animalplanet.br
 http://pfsv.io:80/33732940/14864/164
 
 
