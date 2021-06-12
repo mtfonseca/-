@@ -460,10 +460,11 @@ http://lb.kstream.org/aovivo/FHD_TNT/video.m3u8?token=381bcf5b7c8ee11b34590bf9a8
 http://pdsrv.io:80/w0imp8sd/whcu2sj3/6074
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/WPX8nqx/B-TNT-FHD.png",TNT
 http://pfsv.io:80/33732940/14864/287
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/qn3t7LP/B-TNT-Series-FHD.png",TNT Series
-http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=381bcf5b7c8ee11b34590bf9a849968e
+
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="https://i.ibb.co/qn3t7LP/B-TNT-Series-FHD.png",TNT Series
 http://pfsv.io:80/33732940/14864/602
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/qn3t7LP/B-TNT-Series-FHD.png",TNT Series
+http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=381bcf5b7c8ee11b34590bf9a849968e
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/qn3t7LP/B-TNT-Series-FHD.png",TNT Series
 http://pfsv.io:80/33732940/14864/288
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/64cqGSW/B-TNTSports-HD.png",TNT Sports Jogo 1
