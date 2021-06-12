@@ -157,15 +157,15 @@ http://pfsv.io:80/33732940/14864/584
 http://pfsv.io:80/33732940/14864/524
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 2
 http://pfsv.io:80/33732940/14864/525
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 3
+#EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 3
 http://pfsv.io:80/33732940/14864/526
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 4
+#EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 4
 http://pfsv.io:80/33732940/14864/527
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 5
+#EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 5
 http://pfsv.io:80/33732940/14864/528
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 6
+#EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 6
 http://pfsv.io:80/33732940/14864/529
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 7
+#EXTINF:-1 group-title="Premiere" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png",Premiere 7
 http://pfsv.io:80/33732940/14864/530
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
@@ -227,6 +227,8 @@ http://pfsv.io:80/33732940/14864/287
 http://pfsv.io:80/33732940/14864/602
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/4k/TNT%20SERIES%204K.png",TNT Series
 http://pfsv.io:80/33732940/14864/288
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://streamd.cmsppv.life/LOGOS/4k/TNT%20SERIES%204K.png",TNT Series
+http://lb.kstream.org/aovivo/FHD_TNT_SERIES/video.m3u8?token=381bcf5b7c8ee11b34590bf9a849968e
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/ka06Cjw.png",TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 group-title="Esportes" tvg-logo="http://i.imgur.com/ka06Cjw.png",TNT Sports
