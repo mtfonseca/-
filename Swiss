@@ -485,3 +485,12 @@ http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_1/video.m3u8?token=381bcf5b7c
 http://lb.kstream.org/aovivo/HD_EI_PLUS_3/video.m3u8?token=381bcf5b7c8ee11b34590bf9a849968e
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/TL9Xms9/B-TNTSports-Programacao-HD.png",TNT Sports Programacao
 http://lb.kstream.org/aovivo/HD_ESPORTE_INTERATIVO_2/video.m3u8?token=381bcf5b7c8ee11b34590bf9a849968e
+#EXTINF:-1 type="stream" tvg-id="Viva FHD" tvg-logo="https://i.ibb.co/jz82bZ6/B-Viva-FHD.png" group-title="Entretenimento",Viva
+
+http://lb.kstream.org/aovivo/FHD_VIVA/video.m3u8?token=bbb5077dbb4f837cfc9859c765b73363
+
+#EXTINF:-1 type="stream" tvg-id="Viva HD" tvg-logo="https://i.ibb.co/pQBjRd7/B-Viva-HD.png" group-title="Entretenimento",Viva
+
+http://lb.kstream.org/aovivo/HD_VIVA/video.m3u8?token=bbb5077dbb4f837cfc9859c765b73363
+
+
