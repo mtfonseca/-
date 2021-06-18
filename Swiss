@@ -3,14 +3,10 @@
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/113
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/cC1c60D/B-A-E-FHD.png",Ae.br
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/cC1c60D/B-A-E-FHD.png",Ae.br
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/x1MkdDg/B-AMC-FHD.png",Amc.br
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/223
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/x1MkdDg/B-AMC-FHD.png",Amc.br
 http://pfsv.io:80/33732940/14864/294
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/x1MkdDg/B-AMC-FHD.png",Amc.br
-http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/Documentario/ANIMAL%20PLANET.png",Animalplanet.br
 http://pfsv.io:80/33732940/14864/588
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://i.ibb.co/ZS5n57R/B-Animal-Planet-FHD.png",Animalplanet.br
@@ -19,8 +15,6 @@ http://pfsv.io:80/33732940/14864/164
 http://pfsv.io:80/33732940/14864/50863
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/k9ZRXx2/B-AXN-FHD.png",AXN
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/116
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/k9ZRXx2/B-AXN-FHD.png",AXN
-http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band
 http://pfsv.io:80/33732940/14864/580
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/2614cwy/B-Band-FHD.png",Band
@@ -59,20 +53,10 @@ http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/133
 http://pfsv.io:80/33732940/14864/595
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/3TgBxJj/B-ESPN-FHD.png",ESPN
 http://pfsv.io:80/33732940/14864/251
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/3TgBxJj/B-ESPN-FHD.png",ESPN
-http://lb.kstream.org/aovivo/FHD_ESPN/video.m3u8?token=73319008e267dd080430cceceb47be50
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/xFYLmq4/B-ESPN2-FHD.png",ESPN+
-http://pfsv.io:80/33732940/14864/254
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/xFYLmq4/B-ESPN2-FHD.png",ESPN+
-http://lb.kstream.org/aovivo/FHD_EEEE_2/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="http://i.imgur.com/rTXcueh.png",ESPN Brasil
 http://pfsv.io:80/33732940/14864/50872
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/C2bfgsq/B-ESPN-FHD.png",ESPN Brasil
 http://pfsv.io:80/33732940/14864/250
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/C2bfgsq/B-ESPN-FHD.png",ESPN Brasil
-http://lb.kstream.org/aovivo/FHD_ESPN_BRASIL/video.m3u8?token=73319008e267dd080430cceceb47be50
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/997dfGJ/B-ESPN-Extra-HD.png",ESPN Extra
-http://pfsv.io:80/33732940/14864/248
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
 http://177.20.208.58:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Entretenimento" tvg-logo="https://ptiptv.tk/logo?i=FTV",Fashion TV
@@ -83,28 +67,16 @@ http://pfsv.io:80/33732940/14864/292
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/149
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxlife.png",Fox Life
 http://pfsv.io:80/33732940/14864/276
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxpremium1.png",Fox Premium 1
-http://pfsv.io:80/33732940/14864/277
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://distv.net/icons/foxpremium2.png",Fox Premium 2
 http://pfsv.io:80/33732940/14864/278
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="http://distv.net/icons/foxsports.png",Fox Sports
 http://pfsv.io:80/33732940/14864/586
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/X8q2wDb/B-Fox-Sports-FHD.png",Fox Sports
 http://pfsv.io:80/33732940/14864/255
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/X8q2wDb/B-Fox-Sports-FHD.png",Fox Sports
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/6118
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/X8q2wDb/B-Fox-Sports-FHD.png",Fox Sports
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_1/video.m3u8?token=73319008e267dd080430cceceb47be50
-#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://distv.net/icons/foxsports2.png",Fox Sports 2
-http://pfsv.io:80/33732940/14864/593
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/VJkDK7c/B-Fox-Sports2-FHD.png",Fox Sports 2
 http://pfsv.io:80/33732940/14864/252
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/VJkDK7c/B-Fox-Sports2-FHD.png",Fox Sports 2
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/153
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/VJkDK7c/B-Fox-Sports2-FHD.png",Fox Sports 2
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/61043
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/VJkDK7c/B-Fox-Sports2-FHD.png",Fox Sports 2
-http://lb.kstream.org/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/FsQHRMy/B-GB-Minas-FHD.png",Globo Belo Horizonte HD
 http://pfsv.io:80/33732940/14864/388
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/FsQHRMy/B-GB-Minas-FHD.png",Globo Belo Horizonte HD
@@ -127,20 +99,14 @@ http://pfsv.io:80/33732940/14864/512
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/154
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/4pFyBTJ/B-HBO-HD.png",HBO
 http://pfsv.io:80/33732940/14864/471
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/4pFyBTJ/B-HBO-HD.png",HBO
-http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/VtGbLSx/B-HBO-Family-FHD.png",HBO Family
 http://pfsv.io:80/33732940/14864/464
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/VtGbLSx/B-HBO-Family-FHD.png",HBO Family
-http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/LYmHv9V/B-HBO-Signature-FHD.png",HBO Signature
 http://pfsv.io:80/33732940/14864/466
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/C8stDyv/B-HBO-Plus-FHD.png",HBO Plus
 http://pfsv.io:80/33732940/14864/465
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://i.ibb.co/CmYKD24/B-History-FHD.png",History
 http://pfsv.io:80/33732940/14864/174
-#EXTINF:-1 group-title="Documentários" tvg-logo="https://i.ibb.co/CVZRpzH/B-History2-FHD.png",H2
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/61093
 #EXTINF:-1 group-title="Documentários" tvg-logo="https://i.ibb.co/CVZRpzH/B-History2-FHD.png",H2
 http://pfsv.io:80/33732940/14864/173
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="http://p6.vc/f0g",Multishow
@@ -157,36 +123,16 @@ http://pfsv.io:80/33732940/14864/584
 http://pfsv.io:80/33732940/14864/524
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 2
 http://pfsv.io:80/33732940/14864/525
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 2
-http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 3
 http://pfsv.io:80/33732940/14864/526
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 3
-http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 4
 http://pfsv.io:80/33732940/14864/527
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 4
-http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=73319008e267dd080430cceceb47be50
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 5
-http://pfsv.io:80/33732940/14864/528
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 5
-http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=73319008e267dd080430cceceb47be50
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 6
-http://pfsv.io:80/33732940/14864/529
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 6
-http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 7
 http://pfsv.io:80/33732940/14864/530
-#EXTINF:-1 group-title="Premiere" tvg-logo="https://i.ibb.co/R6TRdNF/B-Premiere-FHD.png",Premiere 7
-http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=73319008e267dd080430cceceb47be50
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/BgXNRpb/B-Record-FHD.png",RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/f0dGMF6/B-Record-MG-HD.png",Record TV Minas
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/y4pDkzX/B-Record-RJ-HD.png",Record TV Rio HD
-http://pfsv.io:80/33732940/14864/50880
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/y4pDkzX/B-Record-RJ-HD.png",Record TV Rio HD
-http://pfsv.io:80/33732940/14864/57
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://i.ibb.co/3f0DWDs/B-Record-News-FHD.png",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/jgsrySK/B-Rede-TV-FHD.png",RedeTV!
@@ -197,16 +143,12 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w545419196_b1000000.m3u8
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/Tcr860w/B-Sony-FHD.png",Sony
 http://45.164.180.86:8080/edinaldoguerra/@edinaldoguerra/123
-#EXTINF:-1 group-title="Canais 4K" tvg-logo="http://i.imgur.com/knx9dj1.png",SporTV
-http://pfsv.io:80/33732940/14864/589
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/tJkr1Rc/B-Spor-TV-FHD.png",SporTV
 http://pfsv.io:80/33732940/14864/555
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/2KhpH4Q/B-Spor-TV2-FHD.png",SporTV 2
 http://pfsv.io:80/33732940/14864/553
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://i.ibb.co/hgd0dXj/B-Spor-TV3-FHD.png",SporTV 3
 http://pfsv.io:80/33732940/14864/554
-#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/wMtJRmQ/B-TCM-FHD.png",TCM
-http://pdsrv.io:80/w0imp8sd/whcu2sj3/61004
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20ACTION.png",Telecine Action
 http://pfsv.io:80/33732940/14864/50871
 #EXTINF:-1 group-title="Filmes e Séries" tvg-logo="https://i.ibb.co/q9N0zMC/B-Telecine-Action-FHD.png",Telecine Action
