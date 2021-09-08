@@ -19,6 +19,8 @@ http://pfsv.io:80/33732940/14864/50863
 http://pfsv.io:80/33732940/14864/580
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/2614cwy/B-Band-FHD.png",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/2614cwy/B-Band-FHD.png",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://i.ibb.co/X3QV55w/B-CNN-FHD.png",CNN Brasil
 http://pfsv.io:80/33732940/14864/513
 #EXTINF:-1 group-title="Canais 4K" tvg-logo="https://i.imgur.com/2AmwZmm.jpg",Discovery Channel
@@ -151,8 +153,6 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-logo="https://i.ibb.co/3f0DWDs/B-Record-News-FHD.png",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/jgsrySK/B-Rede-TV-FHD.png",RedeTV!
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/58T2sRw/B-SBT-FHD.png",SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
 #EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/58T2sRw/B-SBT-FHD.png",SBT
