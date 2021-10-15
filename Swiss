@@ -55,9 +55,9 @@ http://pfsv.io:80/736837443/6704/30195
 http://pfsv.io:80/736837443/6704/514
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://s.eyplay.io/logos/canais/bandnews.png",Band News
 http://pfsv.io:80/736837443/6704/520
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/2614cwy/B-Band-FHD.png",Band
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://s.eyplay.io/logos/canais/band.png",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
-#EXTINF:-1 group-title="Abertos" tvg-logo="https://i.ibb.co/2614cwy/B-Band-FHD.png",Band
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://s.eyplay.io/logos/canais/band.png",Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://s.eyplay.io/logos/canais/band.png",Band
 http://pfsv.io:80/736837443/6704/30181
