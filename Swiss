@@ -1,14 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png",Ae.br
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+http://livetv2021.site:8080/9897876765/6576567/6647
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/a%26e.png",Ae.br
 https://list.iptvcat.com/my_list/s/faa0ad50f6c833b85773f842966b3662.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/axn.png",AXN
-http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/amc.png",Amc.br
+http://livetv2021.site:8080/9897876765/6576567/72
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/animalplanet.png",Animalplanet.br
+http://livetv2021.site:8080/9897876765/6576567/929
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/arte1.png",Arte 1
+http://livetv2021.site:8080/9897876765/6576567/129
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/axn.png",AXN
 https://list.iptvcat.com/my_list/s/143cdefba3cf5cb9339f81ed9651c2ab.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/axn.png",AXN
+http://livetv2021.site:8080/9897876765/6576567/6698
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://s.eyplay.io/logos/canais/band.png",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://s.eyplay.io/logos/canais/band.png",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://s.eyplay.io/logos/canais/band.png",Band
+http://livetv2021.site:8080/9897876765/6576567/111
+#EXTINF:-1 group-title="Canais | Arte e Música" tvg-logo="http://s.eyplay.io/logos/canais/bis.png",BIS
+http://livetv2021.site:8080/9897876765/6576567/173
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://s.eyplay.io/logos/canais/cnn.png",CNN Brasil
 http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png",Discovery Channel
@@ -17,12 +29,20 @@ http://168.205.87.198:8555/live/elienecp/123456/33.m3u8
 http://168.205.87.198:8555/live/elienecp/123456/35.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png",Discovery Science
 http://168.205.87.198:8555/live/elienecp/123456/38.m3u8
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoveryscience.png",Discovery Science
+http://livetv2021.site:8080/9897876765/6576567/78
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png",Discovery Theater
 http://168.205.87.198:8555/live/elienecp/123456/39.m3u8
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoverytheater.png",Discovery Theater
+http://livetv2021.site:8080/9897876765/6576567/6662
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png",Discovery Turbo
 http://168.205.87.198:8555/live/elienecp/123456/41.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png",Discovery World
 http://168.205.87.198:8555/live/elienecp/123456/42.m3u8
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/discoveryworld.png",Discovery World
+http://livetv2021.site:8080/9897876765/6576567/6663
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://s.eyplay.io/logos/canais/espn.png",ESPN
+http://livetv2021.site:8080/9897876765/6576567/167
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png",ESPN+
 http://168.205.87.198:8555/live/adriana/123456/49.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://s.eyplay.io/logos/canais/espn2.png",ESPN+
@@ -31,28 +51,84 @@ http://168.205.87.198:8555/live/elienecp/123456/49.m3u8
 http://168.205.87.198:8555/live/viniciusvieira/vieira123/49.m3u8
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png",ESPN Brasil
 http://168.205.87.198:8555/live/elienecp/123456/50.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://s.eyplay.io/logos/canais/espnbrasil.png",ESPN Brasil
+http://livetv2021.site:8080/9897876765/6576567/166
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png",ESPN Extra
 http://168.205.87.198:8555/live/adriana/123456/51.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://s.eyplay.io/logos/canais/espnextra.png",ESPN Extra
+http://livetv2021.site:8080/9897876765/6576567/6626
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/StA",Fish TV
+http://livetv2021.site:8080/9897876765/6576567/109
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png",Fox Sports
 http://168.205.87.198:8555/live/elienecp/123456/65.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports1.png",Fox Sports
+http://livetv2021.site:8080/9897876765/6576567/99
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png",Fox Sport 2
 http://168.205.87.198:8555/live/elienecp/123456/66.m3u8
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://static.clubsrv.me/logos/canais/foxsports2.png",Fox Sports 2
+http://livetv2021.site:8080/9897876765/6576567/100
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://static.clubsrv.me/logos/canais/globonews.png",Globo News
+http://livetv2021.site:8080/9897876765/6576567/169
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png",Globo Belo Horizonte HD
 http://168.205.87.198:8555/live/elienecp/123456/70.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png",Globo Belo Horizonte HD
+http://livetv2021.site:8080/9897876765/6576567/84
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png",Globo RJ
 https://list.iptvcat.com/my_list/s/4101f71359e4f508e8940efd95ed080b.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png",Globo RJ
 https://list.iptvcat.com/my_list/s/7a3a7501025a2aedc486da730097e3f8.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png",Globo RJ
+http://livetv2021.site:8080/9897876765/6576567/80
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/globo.png",Globo SP
+http://livetv2021.site:8080/9897876765/6576567/81
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://static.clubsrv.me/logos/canais/gnt.png",GNT
+http://livetv2021.site:8080/9897876765/6576567/6625
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://static.clubsrv.me/logos/canais/hbo.png",HBO
+http://livetv2021.site:8080/9897876765/6576567/125
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://static.clubsrv.me/logos/canais/hbo2.png",HBO 2
+http://livetv2021.site:8080/9897876765/6576567/126
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://static.clubsrv.me/logos/canais/hbofamily.png",HBO Family
+http://livetv2021.site:8080/9897876765/6576567/130
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://s.eyplay.io/logos/canais/hbomundi.png",HBO Mundi
+http://livetv2021.site:8080/9897876765/6576567/8473
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://static.clubsrv.me/logos/canais/hboplus.png",HBO Plus
+http://livetv2021.site:8080/9897876765/6576567/127
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://s.eyplay.io/logos/canais/hbopop.png",HBO POP
+http://livetv2021.site:8080/9897876765/6576567/132
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://static.clubsrv.me/logos/canais/hbosignature.png",HBO Signature
+http://livetv2021.site:8080/9897876765/6576567/131
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://static.clubsrv.me/logos/canais/history.png",History Channel
-http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_3.m3u8
+http://livetv2021.site:8080/9897876765/6576567/6649
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://static.clubsrv.me/logos/canais/h2.png",History Channel 2
-http://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_1.m3u8
+http://livetv2021.site:8080/9897876765/6576567/6645
 #EXTINF:-1 group-title="Canais | Arte e Música" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png",MTV
 http://78.83.191.18:8000/play/a06q
+#EXTINF:-1 group-title="Canais | Arte e Música" tvg-logo="http://static.clubsrv.me/logos/canais/mtv.png",MTV
+http://livetv2021.site:8080/9897876765/6576567/6646
 #EXTINF:-1 group-title="Canais | Arte e Música" tvg-logo="http://static.clubsrv.me/logos/canais/mtvlive.png",MTV Live
 http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/nationalgeographic.png",National Geografic
+http://livetv2021.site:8080/9897876765/6576567/8851
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png",National Geographic Wild
+http://livetv2021.site:8080/9897876765/6576567/8849
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png",Premiere Clubes
+http://livetv2021.site:8080/9897876765/6576567/122
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png",Premiere 2
+http://livetv2021.site:8080/9897876765/6576567/124
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png",Premiere 3
+http://livetv2021.site:8080/9897876765/6576567/6624
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png",Premiere 4
+http://livetv2021.site:8080/9897876765/6576567/419
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png",Premiere 5
+http://livetv2021.site:8080/9897876765/6576567/136
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png",Premiere 6
+http://livetv2021.site:8080/9897876765/6576567/134
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://static.clubsrv.me/logos/canais/premiere.png",Premiere 7
+http://livetv2021.site:8080/9897876765/6576567/135
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/record.png",RecordTv SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/record.png",RecordTv SP
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png",SBT
@@ -60,16 +136,32 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/sbt.png",SBT MG
 http://168.205.87.198:8555/live/adriana/123456/104.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/sony.png",Sony Channel
-http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
+http://livetv2021.site:8080/9897876765/6576567/6651
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://static.clubsrv.me/logos/canais/space.png",Space
+http://livetv2021.site:8080/9897876765/6576567/6672
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://static.clubsrv.me/logos/canais/sportv.png",SporTV
-http://45.226.78.2:80/rpanta/123/188
+http://livetv2021.site:8080/9897876765/6576567/56
 #EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://static.clubsrv.me/logos/canais/sportv2.png",SporTV 2
-http://45.226.78.2:80/rpanta/123/189
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://static.clubsrv.me/logos/canais/sportv3.png",SporTV 3
-http://45.226.78.2:80/rpanta/123/190
+http://livetv2021.site:8080/9897876765/6576567/101
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://static.clubsrv.me/logos/canais/tcm.png",TCM
 http://168.205.87.198:8555/live/adriana/123456/112.m3u8
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://s.eyplay.io/logos/canais/telecineaction.png",Telecine Action
+http://livetv2021.site:8080/9897876765/6576567/61
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://s.eyplay.io/logos/canais/telecinecult.png",Telecine Cult
+http://livetv2021.site:8080/9897876765/6576567/607
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://s.eyplay.io/logos/canais/telecinefun.png",Telecine Fun
+http://livetv2021.site:8080/9897876765/6576567/64
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://s.eyplay.io/logos/canais/telecinepipoca.png",Telecine Pipoca
+http://livetv2021.site:8080/9897876765/6576567/65
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://s.eyplay.io/logos/canais/telecinepremium.png",Telecine Premium
+http://livetv2021.site:8080/9897876765/6576567/59
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://s.eyplay.io/logos/canais/telecinetouch.png",Telecine Touch
+http://livetv2021.site:8080/9897876765/6576567/62
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png",TNT
 http://168.205.87.198:8555/live/adriana/123456/116.m3u8
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://s.eyplay.io/logos/canais/warner.png",Warner Channel
-https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://static.clubsrv.me/logos/canais/tnt.png",TNT
+http://livetv2021.site:8080/9897876765/6576567/168
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://static.clubsrv.me/logos/canais/tntseries.png",TNT Series
+http://livetv2021.site:8080/9897876765/6576567/6667
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://s.eyplay.io/logos/canais/viva.png",Viva
+http://livetv2021.site:8080/9897876765/6576567/116
